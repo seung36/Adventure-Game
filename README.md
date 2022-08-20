@@ -15,11 +15,10 @@ focus on some key things.
     - Use a conditional loop to handle invalid input.
     - Refactor code by defining and calling functions.
         The code includes at least four function definitions that are used to improve the code in some way, such as by:
-
-          - Reducing repetition
-          - Reducing complexity
-          - Improving the readability or organization of the code
-          - Each function should have a single purpose and a name that describes that purpose.
+          -Reducing repetition
+          -Reducing complexity
+          -Improving the readability or organization of the code
+          -Each function should have a single purpose and a name that describes that purpose.
     - Write code that follows the standard Python style guide.
       - The pycodestyle tool reports zero errors and zero warnings.
     - Test code and produce an error-free program.
