@@ -8,18 +8,19 @@ focus on some key things.
   - The game has conditions for winning and losing.
   - When the game is over, it asks if the player wants to play again.
   
-  This prroject met all critera listed.
-    - Output text to the console.
-    - Import modules and use functions from those modules.
-    - Use the input function in combination with conditional statements (e.g., if and while) to create an interactive program.
-    - Use a conditional loop to handle invalid input.
-    - Refactor code by defining and calling functions.
-        The code includes at least four function definitions that are used to improve the code in some way, such as by:
-          -Reducing repetition
-          -Reducing complexity
-          -Improving the readability or organization of the code
-          -Each function should have a single purpose and a name that describes that purpose.
-    - Write code that follows the standard Python style guide.
-      - The pycodestyle tool reports zero errors and zero warnings.
-    - Test code and produce an error-free program.
+This prroject met all critera listed.
+  - Output text to the console.
+  - Import modules and use functions from those modules.
+  - Use the input function in combination with conditional statements (e.g., if and while) to create an interactive program.
+  - Use a conditional loop to handle invalid input.
+  - Write code that follows the standard Python style guide.
+  - The pycodestyle tool reports zero errors and zero warnings.
+  - Test code and produce an error-free program.
+  - Refactor code by defining and calling functions.
+The code includes at least four function definitions that are used to improve the code in some way, such as by:
+  - Reducing repetition
+  - Reducing complexity
+  - Improving the readability or organization of the code
+  - Each function should have a single purpose and a name that describes that purpose.
+  
   
